@@ -39,9 +39,17 @@
 >  - 문제 접근법, 풀이 방법을 README.md 파일에 자세하게 작성합니다. 
   
 ### commit 
->  - Title : Platform 
->  - Body : Problem Information (Problem Name, Problem level, Time to Solve)
+> ```shell
+>  Title : Platform 
+>  Body : Problem Information (Problem Name, Problem level, Time to Solve)
+>  ```
+>  
+>  - 제목 : 플랫폼 <br>
+>  - 본문 : 문제 정보 (문제 이름, 문제 난이도, 문제 풀이 시간)
 
 ### readme file 
->  - Write down in detail how to approach and solve the problem.
->  - Create in a sample file format.
+>  1. Create in a sample file format.
+>  2. Write down in detail how to approach and solve the problem.
+>
+>  - sample 파일 형식으로 작성합니다. <br>
+>  - 문제 접근법, 풀이 방법을 자세하게 작성합니다.
