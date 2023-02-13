@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><b>Heo Jeong Eun</b></td>
-    <td align="center"><a href="https://github.com/pushedrumex"><b>Kim min Jung</b></td>
+    <td align="center"><a href="https://github.com/pushedrumex"><b>Kim Min Jung</b></td>
   </tr>
   <tr>
     <td align="center">C, <strong>Python</strong></td>
