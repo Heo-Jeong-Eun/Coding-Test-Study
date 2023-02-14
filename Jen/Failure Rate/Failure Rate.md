@@ -1,6 +1,6 @@
 # Failure Rate
 
-> ### Programmers / lv 1. Failure Rate
+> ### Programmers / <a href = https://school.programmers.co.kr/learn/courses/30/lessons/42889> lv 1. Failure Rate </a>
 
 <br>
 
