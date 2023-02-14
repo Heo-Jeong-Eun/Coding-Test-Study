@@ -1,6 +1,6 @@
 # Trio
 
-> ### Programmers / lv 1. Trio
+> ### Programmers / <a href = https://school.programmers.co.kr/learn/courses/30/lessons/131705> lv 1. Trio </a>
 
 <br>
 
