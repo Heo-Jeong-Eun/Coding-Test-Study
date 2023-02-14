@@ -1,6 +1,6 @@
 # Number Partner
 
-> ### Programmers / lv 1. Number Partner
+> ### Programmers / <a href = https://school.programmers.co.kr/learn/courses/30/lessons/131128> lv 1. Number Partner </a>
 
 <br>
 
@@ -39,6 +39,6 @@ def solution(X, Y):
         return answer
 ```
 
-> - point ! 
+> - <strong>TIL ! </strong> 
 > - sort 사용 시 time out을 주의한다.
 > - 이중 for문으로 i와 j가 같을 때 answer에 저장하는 방법을 사용할 때는 time out을 주의한다. 
