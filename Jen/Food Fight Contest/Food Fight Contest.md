@@ -1,6 +1,6 @@
 # Food Fight Contest
 
-> ### Programmers / lv 1. Food Fight Contest
+> ### Programmers / <a href = https://school.programmers.co.kr/learn/courses/30/lessons/134240> lv 1. Food Fight Contest </a>
 
 <br>
 
@@ -36,6 +36,6 @@ food = [1, 3, 4, 6]
 print(solution(food)) 
 ```
 
-> - point ! 
+> - <strong> TIL ! </strong>
 > - answer에 저장할 때 str(i)로 형변환을 해야한다. 
 > - answer에 저장할 때 food[i] // 2에서 float을 고려해야 한다. 
