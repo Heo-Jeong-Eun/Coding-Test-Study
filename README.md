@@ -54,6 +54,8 @@
 ### readme file 
 >  1. Create in a sample file format.
 >  2. Write down in detail how to approach and solve the problem.
+>  3. Attach the problem link.
 >
 >  - sample 파일 형식으로 작성합니다. <br>
 >  - 문제 접근법, 풀이 방법을 자세하게 작성합니다.
+>  - 문제 링크를 첨부합니다. 
