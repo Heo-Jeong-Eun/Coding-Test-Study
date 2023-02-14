@@ -1,6 +1,6 @@
 # Small Substring
 
-> ### Programmers / lv 1. Small Substring
+> ### Programmers / <a href = https://school.programmers.co.kr/learn/courses/30/lessons/147355>lv 1. Small Substring </a>
 
 <br>
 
