@@ -8,13 +8,17 @@
 ## 👋 member 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><img src="https://avatars.githubusercontent.com/Heo-Jeong-Eun" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><img src="https://avatars.githubusercontent.com/Heo-Jeong-Eun" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/pushedrumex"><img src="https://avatars.githubusercontent.com/pushedrumex" width="150px;" alt="">
+    </td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><b>Heo Jeong Eun</b></td>
+    <td align="center"><a href="https://github.com/pushedrumex"><b>Kim Min Jung</b></td>
   </tr>
   <tr>
     <td align="center">C, <strong>Python</strong></td>
+    <td align="center">Java, <strong>Python</strong></td>
   </tr>
    
 </table>
@@ -50,6 +54,8 @@
 ### readme file 
 >  1. Create in a sample file format.
 >  2. Write down in detail how to approach and solve the problem.
+>  3. Attach the problem link.
 >
 >  - sample 파일 형식으로 작성합니다. <br>
 >  - 문제 접근법, 풀이 방법을 자세하게 작성합니다.
+>  - 문제 링크를 첨부합니다. 
