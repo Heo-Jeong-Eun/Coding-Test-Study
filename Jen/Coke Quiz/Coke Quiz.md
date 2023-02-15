@@ -38,6 +38,7 @@ def solution(a, b, n):
 > - 단 첫번째 진행할 때는 a개만 소비되기 때문에 b개만큼 받지 못해 -b
 > - 첫번째 조건을 먼저 계산 n - b, 반복 횟수는 n - b만큼
 > - (a - b)를 해주고 받는 병 b만큼 곱한다. 
+
 ```py
 solution = lambda a, b, n: max(n - b, 0) // (a - b) * b
 ```
