@@ -15,4 +15,4 @@ def solution(N, stages):
 
 N = 5
 stages = [2, 1, 2, 6, 2, 4, 3, 3]
-print(solution(N, stages))
+print(solution(N, stages)) 
