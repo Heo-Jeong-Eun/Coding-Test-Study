@@ -5,7 +5,7 @@
 <br>
 
 ## 💡 approaches
->  - Removing Pairs 문제 풀이를 참고, stack으로 문제 풀이를 생각했다. 
+>  - Removing Pairs 문제를 참고, stack으로 풀이를 생각했다. 
 >  - 마지막 stack에 원소가 남아있는 경우 false return, 빈 경우 true return
 
 <br>
