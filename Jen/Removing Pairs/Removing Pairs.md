@@ -14,10 +14,10 @@
 
 >  - 완전 탐색으로 코드 작성 시 효율성이 떨어지게 된다. -> timeout
 >  - 두 개를 비교해 서로 같을 때 pop, 다를 때 append -> stack을 생각했다. 
->  - list(temp) 생성 -> python에서 stack은 list로 구성된다. 
->  - stack == empty, append i 
->  - list의 마지막 원소 == s에서 pop되는 원소, list의 해당 원소를 pop
->  - list의 마지막 원소 != s에서 pop되는 원소, 해당 원소를 list append
+>  1. list(temp) 생성 -> python에서 stack은 list로 구성된다. 
+>  2. stack == empty, append i 
+>  3. list의 마지막 원소 == s에서 pop되는 원소, list의 해당 원소를 pop
+>  4. list의 마지막 원소 != s에서 pop되는 원소, 해당 원소를 append
 
 ```py
 def solution(s):
