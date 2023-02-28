@@ -19,7 +19,7 @@
 
 >  - start, end를 tuple로 입력 받아 meeting list에 append
 >  - key = lambda x: x[1], x[0]을 기준으로 sort
->  - 회의 끝 시간과 다음 회의 시작 시간을 비교했을 때 시작시간이 크거나 같은 경우를 만족하면 endtime에 end를 저장하고 cnt를 증감시킨다. 
+>  - 회의 끝 시간과 다음 회의 시작 시간을 비교했을 때 시작시간이 크거나 같은 경우를 만족하면 endtime에 end를 저장하고 cnt를 증가시킨다. 
 
 ```py
 n = int(input()) # 회의 갯수 입력
