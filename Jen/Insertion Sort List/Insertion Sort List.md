@@ -1,6 +1,6 @@
 # Insertion Sort List
 
-> ### Leetcode / <a href = > Medium. Insertion Sort List </a>
+> ### Leetcode / <a href = https://leetcode.com/explore/learn/card/sorting/694/comparison-based-sorts/4485/> Medium. Insertion Sort List </a>
 
 <br>
 
