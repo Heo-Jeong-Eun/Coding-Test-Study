@@ -2,7 +2,7 @@ def solution(park, routes):
     answer = []
 
     W = len(park[0])
-    H = W
+    H = len(park)
 
     dict = {'N':[-1, 0], 'S':[1, 0], 'W':[0, -1], 'E':[0, 1]}
 
